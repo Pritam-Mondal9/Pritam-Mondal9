@@ -12,7 +12,7 @@ I'm a **Data Analyst** with a passion for turning data into actionable insights.
 ### 🔹 Hospital Workflow Dashboard
 - **Description:** A Power BI dashboard to track hospital workflow, including patient admission, discharge, follow-ups, billing, and diagnosis trends.
 - **Skills Used:** Power BI, Data Visualization
-- **GitHub Repo:** [Link](#)
+- **GitHub Repo:** [[Link](https://github.com/Pritam-Mondal9/Healthcare-Project-.git)](#)
 
 ### 🔹 Retail Sales Performance Dashboard
 - **Description:** A Power BI dashboard analyzing retail sales performance, including revenue, profit trends, product-wise sales, and regional sales distribution.
