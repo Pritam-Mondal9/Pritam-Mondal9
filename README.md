@@ -1,19 +1,41 @@
-<h1 align="center">Hi 👋, I'm Pritam</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+# Hi there, I'm Pritam Mondal! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-mondal9&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-mondal9" /> </p>
+## 💡 About Me
+I'm a **Data Analyst** with a passion for turning data into actionable insights. I enjoy working with SQL and data visualization tools to solve real-world problems. Currently, I'm applying for data analytics roles while also expanding my portfolio with hands-on projects.
 
-- 🌱 I’m currently learning **Data Analysis & Data Visualisation**
+## 🚀 Skills & Tools
+- **Data Visualization:** Power BI
+- **Databases:** MySQL, PostgreSQL
+- **Other Tools:** Excel, Google Sheets, WordPress, SEMrush (Certified)
 
-- 📫 How to reach me **pritammondal9158@gmail.com**
+## 📂 Projects
+### 🔹 Hospital Workflow Dashboard
+- **Description:** A Power BI dashboard to track hospital workflow, including patient admission, discharge, follow-ups, billing, and diagnosis trends.
+- **Skills Used:** Power BI, Data Visualization
+- **GitHub Repo:** [Link](#)
 
-<h3 align="left">Connect with me:</h3>
+### 🔹 Retail Sales Performance Dashboard
+- **Description:** A Power BI dashboard analyzing retail sales performance, including revenue, profit trends, product-wise sales, and regional sales distribution.
+- **Skills Used:** Power BI, Data Analysis, Data Visualization
+- **GitHub Repo:** [Link](#)
 
-<img align="right" alt="visualisation" width="400" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200w.gif?cid=6c09b952f4sf312tg2aman7ttjywq6513elputcwcyr4qwcx&ep=v1_gifs_search&rid=200w.gif&ct=g">
+### 🔹 Virat Kohli's Career Statistic Analysis Dashboard
+- **Description:** A Power BI dashboard visualizing Virat Kohli's cricket career statistics, including runs by year, innings, average, strike rate, and boundary analysis.
+- **Skills Used:** Power BI, Data Analysis, Data Visualization
+- **GitHub Repo:** [Link](#)
 
-<p align="left">
-<a href="https://twitter.com/@pritammon9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pritammon9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pritam-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-mondal" height="30" width="40" /></a>
-</p>
+### 🔹 OLA Data Analyst Project
+- **Description:** A Power BI dashboard analyzing OLA ride data, including vehicle type performance, booking values, success rates, and distance traveled.
+- **Skills Used:** Power BI, Data Analysis, Data Visualization
+- **GitHub Repo:** [Link](#)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam-mondal9&show_icons=true&locale=en" alt="pritam-mondal9" /></p>
+*(More projects coming soon!)*
+
+## 📫 Connect with Me
+- **LinkedIn:** [www.linkedin.com/in/
+pritam-mondal-data-analyst9
+](#)
+- **Email:** pritammondal9158@gmail.com
+
+---
+Let's collaborate and explore the world of data together! 🚀
