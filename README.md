@@ -17,7 +17,7 @@ I'm a **Data Analyst** with a passion for turning data into actionable insights.
 ### 🔹 Retail Sales Performance Dashboard
 - **Description:** A Power BI dashboard analyzing retail sales performance, including revenue, profit trends, product-wise sales, and regional sales distribution.
 - **Skills Used:** Power BI, Data Analysis, Data Visualization
-- **GitHub Repo:** [Link](#)
+- **GitHub Repo:** [[Link](https://github.com/Pritam-Mondal9/Retail-Sales-Dashboard.git)](#)
 
 ### 🔹 Virat Kohli's Career Statistic Analysis Dashboard
 - **Description:** A Power BI dashboard visualizing Virat Kohli's cricket career statistics, including runs by year, innings, average, strike rate, and boundary analysis.
