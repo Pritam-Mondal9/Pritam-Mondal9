@@ -27,7 +27,7 @@ I'm a **Data Analyst** with a passion for turning data into actionable insights.
 ### 🔹 OLA Data Analyst Project
 - **Description:** A Power BI dashboard analyzing OLA ride data, including vehicle type performance, booking values, success rates, and distance traveled.
 - **Skills Used:** Power BI, Data Analysis, Data Visualization
-- **GitHub Repo:** [Link](#)
+- **GitHub Repo:** [[Link](https://github.com/Pritam-Mondal9/OLA-Data-Analytics-Project.git)](#)
 
 *(More projects coming soon!)*
 
