@@ -22,7 +22,7 @@ I'm a **Data Analyst** with a passion for turning data into actionable insights.
 ### 🔹 Virat Kohli's Career Statistic Analysis Dashboard
 - **Description:** A Power BI dashboard visualizing Virat Kohli's cricket career statistics, including runs by year, innings, average, strike rate, and boundary analysis.
 - **Skills Used:** Power BI, Data Analysis, Data Visualization
-- **GitHub Repo:** [Link](#)
+- **GitHub Repo:** [[Link](https://github.com/Pritam-Mondal9/Virat-Kohli-Stats-Dashboard-PowerBI.git)](#)
 
 ### 🔹 OLA Data Analyst Project
 - **Description:** A Power BI dashboard analyzing OLA ride data, including vehicle type performance, booking values, success rates, and distance traveled.
