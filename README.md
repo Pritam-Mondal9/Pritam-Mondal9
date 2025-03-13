@@ -35,7 +35,7 @@ I'm a **Data Analyst** with a passion for turning data into actionable insights.
 - **LinkedIn:** [www.linkedin.com/in/
 pritam-mondal-data-analyst9
 ](#)
-- **Email:** pritammondal9158@gmail.com
+- **Email:** pritamanalyst@gmail.com
 
 ---
 Let's collaborate and explore the world of data together! 🚀
